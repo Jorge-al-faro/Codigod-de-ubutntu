@@ -1,0 +1,30 @@
+ Ip addr 
+Ping 198.234.0.1
+sudo apt install openssh-server
+ Y
+ sudo apt install nmap
+ nmap 198.234.0.1
+ Ipconfg
+[1: nmap (cualquier cosa.)
+ sudo apt upgrade^c
+ Terminus&&
+ Add host
+ Ip de terminal
+ User+password
+ Add and continue
+ Ssh
+ Ls
+ Pwe
+ C ..
+ Nano txt
+ Les
+ More
+ Cat passwrd
+ Pstree
+ sudo install apt htop
+ kill-9
+ 20015
+ su root
+ sudo passwrd root
+whoami 
+/home/jorge
