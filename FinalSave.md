@@ -80,5 +80,6 @@ ls -a	Lista todos los archivos, incluidos lo
 
 
 
+
 - [x] pueden haber erroes 
 - [ ] Se termina el curso. :tada:
